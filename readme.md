@@ -27,7 +27,7 @@ Avant de commencer, assurez-vous que vous avez les éléments suivants installé
 Clonez le dépôt et accédez au répertoire du projet :
 
 ```bash
-git clone <URL-DU-REPOSITORY>
+git clone <[URL-DU-REPOSITORY](https://github.com/NARIHY/Base-spring-boot)>
 cd base
 ```
 
