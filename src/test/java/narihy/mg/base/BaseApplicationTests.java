@@ -1,4 +1,4 @@
-package com.base.narihy.mg.base;
+package narihy.mg.base;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

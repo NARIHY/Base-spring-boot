@@ -1,4 +1,4 @@
-package com.base.narihy.mg.base;
+package narihy.mg.base;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
